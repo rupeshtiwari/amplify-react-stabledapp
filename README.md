@@ -2,9 +2,23 @@
 
 Lets build a full stack application to call Stable Diffusion AI model. We will first build the backend then frontend. Backend includes: 1) SageMaker 2) Lambda 3) Api Gateway. And Frontend includes react web app deployed in Amplify. 
 
+
+
+## Demo
 [ view live app here](https://main.d32ou2x1stz40z.amplifyapp.com/)
 
+![](documents/demo-text-to-image.gif)
+
+## Architecture Diagram
+
+![](documents/stable-diffusion-diagram.png)
+
+
+**Table of Contents**
+
 - [Stable Diffusion Generative AI Fullstack Application](#stable-diffusion-generative-ai-fullstack-application)
+  - [Demo](#demo)
+  - [Architecture Diagram](#architecture-diagram)
   - [Build Backend](#build-backend)
     - [Step 1: Create SageMaker domain](#step-1-create-sagemaker-domain)
     - [Step 2: Deploy Stable Diffusion model](#step-2-deploy-stable-diffusion-model)
@@ -213,7 +227,7 @@ Now that you have an API and a Lambda function in place, let’s look at the tes
 2. Use body `{"data":"vanilla cake"}`
 3. Send it will take around 20-25 sec to get you pre-signed url for image.
 
-![](vanilla%20cake%2020f4c915-16b0-4d61-aa06-d6581f7ca566.png)
+![](./documents/vanilla%20cake%2020f4c915-16b0-4d61-aa06-d6581f7ca566.png)
 
 ## Build Frontend
 
