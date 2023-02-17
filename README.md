@@ -2,7 +2,7 @@
 
 Lets build a full stack application to call Stable Diffusion AI model. We will first build the backend then frontend. Backend includes: 1) SageMaker 2) Lambda 3) Api Gateway. And Frontend includes react web app deployed in Amplify. 
 
-view live app here: https://main.d24i175dcbz8cs.amplifyapp.com/ 
+[ view live app here](https://main.d32ou2x1stz40z.amplifyapp.com/)
 
 - [Stable Diffusion Generative AI Fullstack Application](#stable-diffusion-generative-ai-fullstack-application)
   - [Build Backend](#build-backend)
