@@ -20,6 +20,7 @@ Lets build a full stack application to call Stable Diffusion AI model. We will f
   - [Demo](#demo)
   - [Architecture Diagram](#architecture-diagram)
     - [Videos to watch and follow along](#videos-to-watch-and-follow-along)
+      - [Introduction to the course](#introduction-to-the-course)
   - [Build Backend](#build-backend)
     - [Step 1: Create SageMaker domain](#step-1-create-sagemaker-domain)
     - [Step 2: Deploy Stable Diffusion model](#step-2-deploy-stable-diffusion-model)
@@ -42,6 +43,8 @@ Lets build a full stack application to call Stable Diffusion AI model. We will f
   - [References](#references)
 
 ### Videos to watch and follow along
+
+#### Introduction to the course
 
 [![Stable Diffusion Introduction Video](https://img.youtube.com/vi/VQTCpj9e0p0/0.jpg)](https://www.youtube.com/watch?v=VQTCpj9e0p0)
 
