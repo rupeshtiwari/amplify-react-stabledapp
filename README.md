@@ -1,5 +1,5 @@
 # Stable Diffusion Generative AI Fullstack Application
-
+![](https://imgur.com/g4gaI1A.png)
 Lets build a full stack application to call Stable Diffusion AI model. We will first build the backend then frontend. Backend includes: 1) SageMaker 2) Lambda 3) Api Gateway. And Frontend includes react web app deployed in Amplify. 
 
 
@@ -19,6 +19,7 @@ Lets build a full stack application to call Stable Diffusion AI model. We will f
 - [Stable Diffusion Generative AI Fullstack Application](#stable-diffusion-generative-ai-fullstack-application)
   - [Demo](#demo)
   - [Architecture Diagram](#architecture-diagram)
+    - [Videos to watch and follow along](#videos-to-watch-and-follow-along)
   - [Build Backend](#build-backend)
     - [Step 1: Create SageMaker domain](#step-1-create-sagemaker-domain)
     - [Step 2: Deploy Stable Diffusion model](#step-2-deploy-stable-diffusion-model)
@@ -39,6 +40,11 @@ Lets build a full stack application to call Stable Diffusion AI model. We will f
     - [Step 3: Deploy your app with AWS Amplify](#step-3-deploy-your-app-with-aws-amplify)
     - [Step 4: Automatically deploy code changes CI/CD](#step-4-automatically-deploy-code-changes-cicd)
   - [References](#references)
+
+### Videos to watch and follow along
+
+[![Stable Diffusion Introduction Video](https://img.youtube.com/vi/VQTCpj9e0p0/0.jpg)](https://www.youtube.com/watch?v=VQTCpj9e0p0)
+
 
 ## Build Backend
 
