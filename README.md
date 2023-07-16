@@ -13,12 +13,30 @@ Lets build a full stack application to call Stable Diffusion AI model. We will f
 
 ![](documents/stable-diffusion-diagram.png)
 
+## How to run this project locally?
+
+```
+# Clone the repository to your local machine
+git clone https://github.com/rupeshtiwari/amplify-react-stabledapp.git
+
+# Go to the project folder
+cd amplify-react-stabledapp
+
+# Install npm dependencies with exact versions from package-lock.json file
+ 
+npm ci 
+
+# Run the react app
+npm start
+```
+![running react app locally](documents/localhost.png)
 
 **Table of Contents**
 
 - [Stable Diffusion Generative AI Fullstack Application](#stable-diffusion-generative-ai-fullstack-application)
   - [Demo](#demo)
   - [Architecture Diagram](#architecture-diagram)
+  - [How to run this project locally?](#how-to-run-this-project-locally)
     - [Videos to watch and follow along](#videos-to-watch-and-follow-along)
       - [Introduction to the course](#introduction-to-the-course)
   - [Build Backend](#build-backend)
