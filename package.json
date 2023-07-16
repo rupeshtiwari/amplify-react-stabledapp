@@ -38,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@capacitor/android": "^5.2.1",
+    "@capacitor/cli": "^5.2.1"
   }
 }
